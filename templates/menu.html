@@ -1,0 +1,14 @@
+<nav class="navbar navbar-inverse navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="{{ url_for("index") }}"><img  align="top" width="35" height="35" src="{{url_for("static",filename="img/logo.png")}}" alt="Food Tracker"></a>
+      <a class="navbar-brand" href="{{ url_for("index") }}">Food Tracker</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li><a href="{{ url_for("index") }}">Home</a></li>
+        <li><a href="{{ url_for("food") }}">Add Food</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
