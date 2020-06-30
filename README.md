@@ -1,6 +1,8 @@
 # Food Tracker App
 One of the course projects from [O'Reilly - The Ultimate Flask Course Course ](https://learning.oreilly.com/videos/the-ultimate-flask/9781839219924)
 
+
+![screen](https://github.com/rodrigo-marcolino/Food_Tracker/blob/master/SharedScreenshot.jpg)
 # Create Virtual Environment
 In a terminal run the following commands from the root folder of the forked project.
 
