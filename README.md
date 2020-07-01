@@ -4,9 +4,13 @@ One of the project task from [O'Reilly - The Ultimate Flask Course Course ](http
 
 ![screen](https://github.com/rodrigo-marcolino/Food_Tracker/blob/master/SharedScreenshot.jpg)
 
-### Demo
-![demo](https://drive.google.com/file/d/14cKlqNb8tMJmbDS8VyRmt53NPVMx1iJY/view?usp=sharing)
+### Demo add food
 
+![add_food](https://user-images.githubusercontent.com/51892785/86201015-64ec4500-bbb2-11ea-93e2-3c328c0409e3.gif)
+
+### Demo add a day
+
+![add_day](https://user-images.githubusercontent.com/51892785/86201336-5e120200-bbb3-11ea-88ff-7f747cc57ee9.gif)
 
 # Run Project Locally
 ### Create Virtual Environment
